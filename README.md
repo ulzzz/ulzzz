@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Web Developer</h3>
 
-![Funny GIF](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![Funny GIF](https://giphy.com/gifs/coding-zOvBKUUEERdNm)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulzzz&label=Profile%20views&color=0e75b6&style=flat" alt="ulzzz" /> </p>
 
