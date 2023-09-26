@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Web Developer</h3>
 
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulzzz&label=Profile%20views&color=0e75b6&style=flat" alt="ulzzz" /> </p>
-
 
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **emilioluistarnate1@gmail.com**
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emilioluistarnateulzzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emilioluistarnateulzzz/" height="30" width="40" /></a>
