@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulzzz&label=Profile%20views&color=0e75b6&style=flat" alt="ulzzz" /> </p>
-<p align="right">![Funny GIF](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif) </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
 
 
 - 🌱 I’m currently learning **MERN Stack**
