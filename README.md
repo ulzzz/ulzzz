@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">Web Developer</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulzzz&label=Profile%20views&color=0e75b6&style=flat" alt="ulzzz" /> </p>
 
