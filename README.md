@@ -76,7 +76,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ulzzz&show_icons=true&theme=solarized-light" alt="ulzzz" /></p>
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulzzz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="ulzzz" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulzzz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="ulzzz" /></p>
 
 
     
