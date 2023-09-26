@@ -19,12 +19,14 @@
   <!-- Add other icons here -->
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" /></p>
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Funny GIF" />
+</div>
 
-<p align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=ulzzz&show_icons=true&locale=en" alt="ulzzz" />
-</p>
+</div>
 
-<p align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ulzzz&show_icons=true&locale=en&layout=compact" alt="ulzzz" />
-</p>
+</div>
